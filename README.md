@@ -1,1 +1,1 @@
-# helix-reddit-intelligence
+Personal automation script that reads public Reddit posts on longevity, wellness and peptide topics to identify trending discussions for educational content strategy. Occasionally posts educational, evidence-based replies to relevant threads. Non-commercial, low volume (3 runs per week).
